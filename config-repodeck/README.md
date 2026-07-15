@@ -1,8 +1,4 @@
-﻿---
-accent: "0066ffff"
----
-
-# repodeck
+﻿# repodeck
 
 Turn any GitHub repository into a card you can embed on your site.
 
