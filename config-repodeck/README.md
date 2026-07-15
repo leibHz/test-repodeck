@@ -1,5 +1,5 @@
 ﻿---
-accent: "#3b82f6"
+accent: "#ff0000ff"
 ---
 
 # repodeck
